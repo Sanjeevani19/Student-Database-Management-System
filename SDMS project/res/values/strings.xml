@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic Strings -->
+    <string name="app_name">SDMS App</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Strings for Search -->
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search Here</string>
+    <string name="search_app">Search App</string>
+
+    <!-- Strings for activity_fees -->
+    <string name="tuition">Tuition</string>
+    <string name="lib_fees">Library Fees</string>
+    <string name="park_fees">Parking Fees</string>
+
+    <!-- Strings for activity_home -->
+    <string name="stusearchbutton">Student Search</string>
+    <string name="shuttlebutton">Shuttle Info</string>
+    <string name="mapsbutton">Maps</string>
+    <string name="catalogbutton">Course Catalog</string>
+    <string name="calendarbutton">Academic Calendar</string>
+    
+    <string name="BBbutton">Blackboard</string>
+    <string name="emailButton">Troy E-Mail</string>
+    <string name="piazzaButton">Piazza</string>
+    <string name="TExpressbutton">Web Express</string>
+
+    <!-- Strings for Student Search -->
+    <string name="searchHint">Enter student name</string>
+    <string name="courses"><u>Courses Enrolled</u></string>
+    <string name="Grades">Grades</string>
+    
+    <string name="name1">John Smith</string>
+    <string name="name2">Alan Turing</string>
+    <string name="name3">Shadrika Green</string>
+    <string name="name4">Seema Thompson</string>
+    <string name="name5">Ashley King</string>
+    <string name="name6">James Johnson</string>
+    <string name="name7">Della Jones</string>
+    <string name="name8">Sam Steel</string>
+    <string name="name9">Chris Williams</string>
+    <string name="name10">Karen Robinson</string>
+    
+    <string name="stuid_01">001</string>
+    <string name="stuid_02">002</string>
+    <string name="stuid_03">003</string>
+    <string name="stuid_04">004</string>
+    <string name="stuid_05">005</string>
+    <string name="stuid_06">006</string>
+    <string name="stuid_07">007</string>
+    <string name="stuid_08">008</string>
+    <string name="stuid_09">009</string>
+    <string name="stuid_10">010</string>
+    
+</resources>

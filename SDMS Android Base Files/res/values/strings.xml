@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic Strings -->
+    <string name="app_name">SDMS App</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Strings for activity_fees -->
+    <string name="tuition">Tuition</string>
+    <string name="lib_fees">Library Fees</string>
+    <string name="park_fees">Parking Fees</string>
+    
+    <!-- Strings for activity_home -->
+    <string name="stusearchbutton">Student 
+
+Search</string>
+    <string name="shuttlebutton">Shuttle Info</string>
+    <string name="mapsbutton">Maps</string>
+    <string name="catalogbutton">Course 
+
+Catalog</string>
+    <string name="calendarbutton">Academic 
+
+Calendar</string>
+
+</resources>
+
